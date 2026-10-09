@@ -1,10 +1,6 @@
 # Google App Engine generated folder
 appengine-generated/
-<<<<<<< HEAD
-*.exe, *.o, a.out
-=======
 *.exe
 *.o
 *.out
 *.vs
->>>>>>> 3bd424aad7f1331a00a05b35cd774de95406b1c6
